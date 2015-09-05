@@ -2,6 +2,6 @@
   "name": "Constant Enfrocer",
   "version": "0.0.1",
   "author": "Nitin Mukesh Tiwari",
-  "description": "Reports number of Static fields which are not Final.",
+  "description": "Reports and visualizes number of Static fields which are not Final.",
   "main": "main.html"
 }
