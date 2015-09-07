@@ -1,7 +1,16 @@
 {
-  "name": "Constant Enfrocer",
-  "version": "0.0.1",
-  "author": "Nitin Mukesh Tiwari",
+  "name": "constant-enforcer",
+  "productName": "Constant Enfrocer",
+  "version": "0.1.0",
+  "author": "Nitin Mukesh Tiwari <nmtiwari@iastate.edu>",
   "description": "Reports and visualizes number of Static fields which are not Final.",
-  "main": "main.html"
+  "main": "main.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/candoia/constant-enforcer"
+  },
+  "icon": {
+	"type": "fa",
+	"name": "pi-chart"
+  }
 }
